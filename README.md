@@ -6,3 +6,5 @@ Library-OS は Android 携帯電話用のオペレーティング システム�
 これを使用するには、os ファイルといくつかの設定をダウンロードし、この os で起動する必要があります。
 ## language
 japan
+# ⚠️ not ready!
+we are working at tomorrow!
